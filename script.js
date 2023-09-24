@@ -6,4 +6,4 @@ while(level.tagName != "HTML"){
     count++;
 }
 count++;
-console.log(count);
+window.alert("The level of the element is: "+count);
